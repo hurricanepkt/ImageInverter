@@ -7,8 +7,8 @@
     <ProjectGuid>{C4A8A18E-BD4F-49E2-B299-606FE6BC72B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ImageChanger</RootNamespace>
-    <AssemblyName>ImageChanger</AssemblyName>
+    <RootNamespace>ImageInverter</RootNamespace>
+    <AssemblyName>ImageInverter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
