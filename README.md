@@ -13,3 +13,4 @@ ImageInverter.exe Picture1.png
 - png
 - jpg 
 
+#[Download Binary](https://github.com/hurricanepkt/ImageInverter/raw/master/ImageInverter.exe)#
